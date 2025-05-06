@@ -1,4 +1,4 @@
-# Merhaba, ben Yusuf Balci!  
+# Merhaba, ben Yusuf Balcı!  
 23 yaşındayım ve backend geliştirme alanında kendimi geliştiren bir junior yazılımcıyım. .NET teknolojileri ile verimli ve sürdürülebilir yazılım çözümleri geliştirerek projelerin kalitesini artırmak için çalışıyorum.  
 ---
 ## 🚀 Neler Yaptım? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 🌱 Neler Yapacağım?
